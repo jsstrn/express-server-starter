@@ -1,3 +1,3 @@
-# 📚 Books API
+# 🏎 Express Server Starter
 
-A simple books api service
+Boilerplate for an Express server
